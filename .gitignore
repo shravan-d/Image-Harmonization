@@ -2,4 +2,7 @@ HCOCO/
 data/Tracked Object Test/
 Notebooks/
 requirements
-models/
+models/BargainNet_pretrained_models/
+models/RainNet/
+models/trained/
+.gitignore
