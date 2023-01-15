@@ -20,5 +20,11 @@ Evaluation is done on the benchmark dataset HCOCO, which contains around 42000 p
 | Unet + Style Encoder-RGB	| 60	| 34 |
 | U-net + Style Encoder-HSV | 48	| 34 |
 
+## Result Images
+![Results](Result_samples/Results1.jpg)
+![Results](Result_samples/Results1_1.jpg)
+![Results](Result_samples/Results2.jpg)
+![Results](Result_samples/Results2_1.jpg)
+
 ## Acknowledgements
 A lot of code used in this research relies heavily on research carried out by Cong et al. and their extensive repository on Image Harmonization - https://github.com/bcmi/Awesome-Image-Harmonization
