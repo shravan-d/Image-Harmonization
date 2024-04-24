@@ -27,4 +27,4 @@ Evaluation is done on the benchmark dataset HCOCO, which contains around 42000 p
 ![Results](Result_samples/Results2_1.jpg)
 
 ## Acknowledgements
-A lot of code used in this research relies heavily on research carried out by Cong et al. and their extensive repository on Image Harmonization - https://github.com/bcmi/Awesome-Image-Harmonization
+A lot of this research relies heavily on research carried out by Cong et al. and their extensive repository on Image Harmonization - https://github.com/bcmi/Awesome-Image-Harmonization
